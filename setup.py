@@ -5,7 +5,7 @@ except ImportError:
     
 setup(
     name = 'django-private-files',
-    version = '0.1.1',
+    version = '0.1.2',
     packages = ['private_files', 'private_files.models'],
     author = 'Vasil Vangelovski',
     author_email = 'vvangelovski@gmail.com',
